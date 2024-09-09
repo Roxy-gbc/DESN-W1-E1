@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+
+
+h1
+{
+    text-align: center;
+    color: blueviolet;
+}
+
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
